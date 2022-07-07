@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You can add me on LinkedIn: https://www.linkedin.com/in/muzaffersevili/ 
+
+My email address: muzaffer@computer.org
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
