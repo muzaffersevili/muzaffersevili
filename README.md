@@ -11,6 +11,6 @@ My email address: muzaffer@computer.org
 - 💬 Ask me about Java, C#, OOP
 - 😄 Pronouns: Muzo, Muzi :)
 - ⚡ Fun fact: I love listening arabesque music :D
+- -->
 <!-- 👯 I’m looking to collaborate on ...-->
-<!--- 📫 How to reach me: ...-->
--->
+<!-- 📫 How to reach me: ...-->
